@@ -9,6 +9,7 @@ public class MainTest {
                 System.out.println("helloword git3");
                 System.out.println("helloword master");
                 System.out.println("helloword hot-fix");
+                System.out.println("helloword push test");
 
         }
 }
