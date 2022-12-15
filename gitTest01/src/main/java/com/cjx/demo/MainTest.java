@@ -10,6 +10,7 @@ public class MainTest {
                 System.out.println("helloword master");
                 System.out.println("helloword hot-fix");
                 System.out.println("helloword push test");
+                System.out.println("helloword sshpush test");
 
         }
 }
