@@ -5,6 +5,7 @@ public class MainTest {
         public static void main(String[] args) {
                 System.out.println("helloword");
                 System.out.println("helloword git");
+                System.out.println("helloword git2");
 
         }
 }
